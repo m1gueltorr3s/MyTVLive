@@ -19,3 +19,5 @@ https://tvpass.org/live/TelemundoEast/hd
 http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
 #EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png" group-title="News",🎡 Telemundo 31 Orlando
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UniM%C3%A1s_logo.svg/1024px-UniM%C3%A1s_logo.svg.png" group-title="Entertainment",🍎 UniMás 68 (Nueva York)
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
