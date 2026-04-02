@@ -1,25 +1,62 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",⭐ Estrella TV (1080p)
+#EXTM3U x-tvg-url="http://example.com/epg.xml"
+
+# ==========================================
+# 🎭 CATEGORÍA: ENTRETENIMIENTO & GENERAL
+# ==========================================
+
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="ENTRETENIMIENTO", ⭐ Estrella TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="General",📺 Univision 34 LA
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KRCADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" group-title="General",⭐ Estrella TV LA (720p)
+
+#EXTINF:-1 tvg-id="KRCADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO", ⭐ Estrella TV LA (720p)
 https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="Entertainment",🌌 NBC Universo (720p)
+
+#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="ENTRETENIMIENTO", 🌌 NBC Universo (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="",⚽ TUDN Deportes (1080p)
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr@SD" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="General",🇵🇷 Telemundo Puerto Rico (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="",☀️ Univision 23 Miami
-https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="",🍎 Telemundo 47 NY (1080p)
-https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="",🏖️ Telemundo 51 Miami
-http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
-#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png" group-title="News",🎡 Telemundo 31 Orlando
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UniM%C3%A1s_logo.svg/1024px-UniM%C3%A1s_logo.svg.png" group-title="Entertainment",🍎 UniMás 68 (Nueva York)
+
+#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UniM%C3%A1s_logo.svg/1024px-UniM%C3%A1s_logo.svg.png" group-title="ENTRETENIMIENTO", 🍎 UniMás 68 (Nueva York)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:-1 tvg-id="TelemundoPhoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telemundo_2018_logo.svg/512px-Telemundo_2018_logo.svg.png" group-title="Español", Telemundo Arizona (Phoenix)
+
+# ==========================================
+# ⚽ CATEGORÍA: DEPORTES
+# ==========================================
+
+#EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES", ⚽ TUDN Deportes (1080p)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+# ==========================================
+# 🇺🇸 CATEGORÍA: LOCAL ESTADOS UNIDOS
+# ==========================================
+
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="LOCAL US", 📺 Univision 34 LA
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+
+#EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="LOCAL US", ☀️ Univision 23 Miami
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="LOCAL US", 🍎 Telemundo 47 NY (1080p)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="LOCAL US", 🏖️ Telemundo 51 Miami
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+
+#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png" group-title="LOCAL US", 🎡 Telemundo 31 Orlando
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoPhoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telemundo_2018_logo.svg/512px-Telemundo_2018_logo.svg.png" group-title="LOCAL US", 🏜️ Telemundo Arizona (Phoenix)
 https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoFresno" tvg-logo="https://i.imgur.com/8N4NfXp.png" group-title="LOCAL US", 🍇 Telemundo 52 Fresno (KNSO)
+https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoSanDiego" tvg-logo="https://i.imgur.com/8N4NfXp.png" group-title="LOCAL US", 🌉 Telemundo 20 San Diego (KUAN)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoLasVegas" tvg-logo="https://i.imgur.com/8N4NfXp.png" group-title="LOCAL US", 🎲 Telemundo Las Vegas (KBLR)
+https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+
+# ==========================================
+# 🇵🇷 CATEGORÍA: INTERNACIONAL
+# ==========================================
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr@SD" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="PUERTO RICO", 🇵🇷 Telemundo Puerto Rico (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
