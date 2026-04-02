@@ -13,8 +13,12 @@ https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="ENTRETENIMIENTO", 🌌 NBC Universo (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/250px-Logo_UniM%C3%A1s.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/250px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO", 🍎 UniMás 68 (Nueva York)
+#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/250px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO", 🍎 UniMás 68 (Nueva York)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+
+#EXTINF:-1 tvg-id="Galavision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Galavisi%C3%B3n_2013.svg/1200px-Galavisi%C3%B3n_2013.svg.png" group-title="ENTRETENIMIENTO", 🏛️ Galavisión HD (VPN)
+https://tvpass.org/live/Galavision/hd
+
 
 # ==========================================
 # ⚽ CATEGORÍA: DEPORTES
@@ -33,7 +37,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="LOCAL US", ☀️ Univision 23 Miami
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1280px-Telemundo_47_%282018%29.svg.png" group-title="LOCAL US", 🍎 Telemundo 47 NY (1080p)
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1280px-Telemundo_47_%282018%29.svg.png" group-title="LOCAL US", 🍎 Telemundo 47 NY (1080p VPN) 
 https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="LOCAL US", 🏖️ Telemundo 51 Miami
@@ -53,6 +57,9 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u
 
 #EXTINF:-1 tvg-id="TelemundoLasVegas" tvg-logo="https://play-lh.googleusercontent.com/V1Xa1pMnxdP-uzoyF_f04kusxClXkDCudROLRc19kLCAOZ_G3Bm50RI_Je2qQKbdXg=w600-h300-pc0xffffff-pd" group-title="LOCAL US", 🎲 Telemundo Las Vegas (KBLR)
 https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="LOCAL US", 📺 Univision HD NACIONAL (VPN)
+https://tvpass.org/live/Univision/hd
 
 # ==========================================
 # 🇵🇷 CATEGORÍA: INTERNACIONAL
