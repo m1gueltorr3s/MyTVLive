@@ -21,3 +21,5 @@ http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UniM%C3%A1s_logo.svg/1024px-UniM%C3%A1s_logo.svg.png" group-title="Entertainment",🍎 UniMás 68 (Nueva York)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 tvg-id="TelemundoPhoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telemundo_2018_logo.svg/512px-Telemundo_2018_logo.svg.png" group-title="Español", Telemundo Arizona (Phoenix)
+https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
